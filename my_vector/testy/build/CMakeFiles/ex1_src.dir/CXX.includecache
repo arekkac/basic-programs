@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arek/Pulpit/mot/my_vector/testy/src/my_vector.cpp
+my_vector.h
+/home/arek/Pulpit/mot/my_vector/testy/src/my_vector.h
+iostream
+-
+
+/home/arek/Pulpit/mot/my_vector/testy/src/my_vector.h
+algorithm
+-
+iostream
+-
+
