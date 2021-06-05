@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arek/Pulpit/mot/wymierne/testy/src/rational.cpp
+rational.h
+/home/arek/Pulpit/mot/wymierne/testy/src/rational.h
+iostream
+-
+cstdlib
+-
+
+/home/arek/Pulpit/mot/wymierne/testy/src/rational.h
+iostream
+-
+

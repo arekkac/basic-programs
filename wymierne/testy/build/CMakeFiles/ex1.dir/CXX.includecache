@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/rational.h
+iostream
+-
+
+/home/arek/Pulpit/mot/wymierne/testy/main.cpp
+iostream
+-
+rational.h
+/home/arek/Pulpit/mot/wymierne/testy/rational.h
+
