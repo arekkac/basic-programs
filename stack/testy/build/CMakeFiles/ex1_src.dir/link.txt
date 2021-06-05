@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libex1_src.a  CMakeFiles/ex1_src.dir/src/adts.cpp.o
+/usr/bin/ranlib lib/libex1_src.a

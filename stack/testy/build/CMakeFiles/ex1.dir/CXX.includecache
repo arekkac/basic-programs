@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/adts.h
+iostream
+-
+vector
+-
+
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/main.cpp
+iostream
+-
+adts.h
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/adts.h
+

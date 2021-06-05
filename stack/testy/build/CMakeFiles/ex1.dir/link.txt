@@ -1,0 +1,1 @@
+/usr/bin/c++         CMakeFiles/ex1.dir/main.cpp.o  -o bin/ex1   -L/home/arek/.conan/data/gtest/1.8.1/_/_/package/7320405f83ec32d8556b524cdda87ee295bb7b84/lib  -Wl,-rpath,/home/arek/.conan/data/gtest/1.8.1/_/_/package/7320405f83ec32d8556b524cdda87ee295bb7b84/lib lib/libex1_src.a 

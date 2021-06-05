@@ -1,0 +1,5 @@
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/build/CMakeFiles/rebuild_cache.dir
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/build/CMakeFiles/edit_cache.dir
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/build/CMakeFiles/tests.dir
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/build/CMakeFiles/ex1.dir
+/home/arek/Pulpit/mot/stosy/templates/stack/vector/testy/build/CMakeFiles/ex1_src.dir
